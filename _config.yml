@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Madison Simmons Homepage"
+title                    : "Madison Simmons' Homepage"
 title_separator          : "-"
 name                     : &name "Madison Simmmons"
 description              : &description "personal description"
