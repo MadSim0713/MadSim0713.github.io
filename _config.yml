@@ -22,13 +22,13 @@ repository               : "MadSim0713/MadSim0713.github.io"
 author:
   # Biographic information
   avatar           : "IMG_0634.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Madison Simmons"
+  pronouns         : "she/her"  
+  bio              : "Madison Simmons is a sophmore at Howard University majoring in Applied Mathematics and minoring in Computer Science."
+  location         : "Washington DC"
+  employer         : "Howard University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "730maddy@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
