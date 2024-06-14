@@ -21,7 +21,7 @@ repository               : "MadSim0713/MadSim0713.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG0634.jpg"
+  avatar           : "IMG_0634.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
